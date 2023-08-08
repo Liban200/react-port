@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.47c88703.css",
+    "main.js": "/react-port/static/js/main.070f17aa.js",
+    "static/media/cover-image.jpg": "/react-port/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/pexels-johannes-plenio-1118873.jpg": "/react-port/static/media/pexels-johannes-plenio-1118873.bd59187a29badb40b4b2.jpg",
+    "static/media/notetaker.jpg": "/react-port/static/media/notetaker.bf0448a3d413c655d015.jpg",
+    "static/media/JATE.png": "/react-port/static/media/JATE.6d8c733fd95322c79207.png",
+    "static/media/UFO-getty-Dec16-scaled-e1671232331151.webp": "/react-port/static/media/UFO-getty-Dec16-scaled-e1671232331151.ddb7da76a1782a3836c7.webp",
+    "static/media/employee-time-tracking.png": "/react-port/static/media/employee-time-tracking.80a90a5f747a9973f003.png",
+    "static/media/Types-of-eCommerce-Websites-1024x538.jpg": "/react-port/static/media/Types-of-eCommerce-Websites-1024x538.58490388b73510a0bbed.jpg",
+    "static/media/Imageofme.jpeg": "/react-port/static/media/Imageofme.f1568066082a6d14c2f5.jpeg",
+    "index.html": "/react-port/index.html",
+    "main.47c88703.css.map": "/react-port/static/css/main.47c88703.css.map",
+    "main.070f17aa.js.map": "/react-port/static/js/main.070f17aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c88703.css",
+    "static/js/main.070f17aa.js"
+  ]
+}
