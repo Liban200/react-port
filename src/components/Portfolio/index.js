@@ -6,6 +6,7 @@ import WeatherImg from "../../assets/projects/pexels-johannes-plenio-1118873.jpg
 import JateImg from "../../assets/projects/JATE.png";
 import EconImg from "../../assets/projects/Types-of-eCommerce-Websites-1024x538.jpg";
 import NoteImg from "../../assets/projects/notetaker.jpg";
+import CareerImg from "../../assets/projects/digital-transformation-3.png";
 
 function Portfolio() {
   // Replace links with deployed projects and GitHub repos
@@ -51,6 +52,13 @@ function Portfolio() {
       link: "https://murmuring-earth-79432-beefc0126dc3.herokuapp.com/",
       repo: "https://github.com/Liban200/Note-Taker",
       img: NoteImg,
+    },
+    {
+      name: "CarrerHub",
+      description: "MERN Stack",
+      link: "",
+      repo: "https://github.com/julie-mac/CareerHub",
+      img: CareerImg,
     }
   ]);
 
